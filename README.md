@@ -5,3 +5,6 @@ Here we have used ultra sonic sensor which was used to sense objects that crosse
 by the sensor. When it senses the objects it increases the counter and outputs it in the 7 segment LED that was used.
 
 The code which was uploaded in the Arduino UNO microcontroller and the entire implementation was done on it.
+
+Link to my google drive, project demonstration:
+https://drive.google.com/open?id=1iP68lq5KYVfxEMmz_k_xLrKRky5V3U10
